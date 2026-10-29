@@ -74,6 +74,83 @@
       "balance": 49474,
       "createdAt": "2023-12-07T04:39:38.383Z",
       "modifiedAt": "2024-03-07T00:07:36.510Z"
+    },
+    {
+      "id": "HYJCBUxmR",
+      "uuid": "971bd916-5a5b-4eef-9033-46fb3ae5af18",
+      "firstName": "Celine",
+      "lastName": "Host",
+      "username": "Celine_Host",
+      "password": "$2a$10$U.20frtBw7e0jmHvwv83lu.d11sn/ySql6usJW0IasD8ATFYJ3FBO",
+      "balance": 0,
+      "createdAt": "2026-08-27T16:57:51.161Z",
+      "modifiedAt": "2026-08-27T16:57:51.161Z"
+    },
+    {
+      "id": "FtBFZOeWO",
+      "uuid": "c28389c4-da73-4ec2-981a-1872063466d9",
+      "firstName": "Celine",
+      "lastName": "Host",
+      "username": "Celine_Host",
+      "password": "$2a$10$VpUWBgtgSpZoAJtL5UCzM.P8xCmTneGzt6OgKxhc91fegNE0/zYEe",
+      "balance": 0,
+      "createdAt": "2026-08-27T17:10:08.973Z",
+      "modifiedAt": "2026-08-27T17:10:08.973Z"
+    },
+    {
+      "id": "EIIA7A-ii",
+      "uuid": "25a00e7a-a763-4b77-9ef1-13525b74d276",
+      "firstName": "Celine",
+      "lastName": "Host",
+      "username": "Celine_Host",
+      "password": "$2a$10$SwrkqNGLN4zWZLmzirYHvOpj1KRn14nT6lrYLhIDhV1maXisMYX2u",
+      "balance": 0,
+      "createdAt": "2026-08-27T17:14:01.607Z",
+      "modifiedAt": "2026-08-27T17:14:01.607Z"
+    },
+    {
+      "id": "r49V9WMUa",
+      "uuid": "84702396-83a9-47b7-93d2-57fcc9e32058",
+      "firstName": "Celine",
+      "lastName": "Host",
+      "username": "Celine_Host",
+      "password": "$2a$10$FBH/XYz9IVZvujQp/zvq8epXtrwLarv7qbEBfjhctAkHDT87YYeeu",
+      "balance": 0,
+      "createdAt": "2026-08-27T17:16:17.624Z",
+      "modifiedAt": "2026-08-27T17:16:17.624Z"
+    },
+    {
+      "id": "H1Q5ZVUDn",
+      "uuid": "e4363add-878b-4153-ba02-dec34941420f",
+      "firstName": "Celine",
+      "lastName": "Host",
+      "username": "Celine_Host",
+      "password": "$2a$10$gYldKor5t5jJZlApTH/pWum8rhUQsPzxmMbr3dyg6RWR1EZP9EX5K",
+      "balance": 0,
+      "createdAt": "2026-08-27T17:17:09.165Z",
+      "modifiedAt": "2026-08-27T17:17:09.165Z"
+    },
+    {
+      "id": "klDn7R3vg",
+      "uuid": "896c134b-eb7d-4aba-a40d-0144015926dd",
+      "firstName": "Celine",
+      "lastName": "Host",
+      "username": "Celine_Host",
+      "password": "$2a$10$o4Uq67z9oCFpsmthM.XpPuIaViqbIqVrPow0AagqDCbzc/sGPhX/G",
+      "balance": 0,
+      "createdAt": "2026-08-27T17:17:42.375Z",
+      "modifiedAt": "2026-08-27T17:17:42.375Z"
+    },
+    {
+      "id": "vDES827jx",
+      "uuid": "44dca188-5b6d-49cd-823c-04e227b48f01",
+      "firstName": "Celine",
+      "lastName": "Host",
+      "username": "Celine_Host",
+      "password": "$2a$10$QUADWqxpGYOmSphV9O074.Mgm8vRyGeO5TbsPy.Fuf.8qVUUmqH7G",
+      "balance": 0,
+      "createdAt": "2026-08-27T17:18:31.136Z",
+      "modifiedAt": "2026-08-27T17:18:31.136Z"
     }
   ],
   "contacts": [
@@ -10986,4 +11063,3 @@
     }
   ]
 }
-
